@@ -1,2 +1,2 @@
 # images-in-readme
-Use this repo to host images in other repositories readmes
+This repo is for hosting images to other repositories
